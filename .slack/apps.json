@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "docomo-ivm": {
+      "name": "docomo-ivm",
+      "app_id": "A051MUNP8CV",
+      "enterprise_id": "EE36FT5GU",
+      "team_id": "TPXJHB0TV",
+      "IsDev": false
+    }
+  },
+  "default": "docomo-ivm"
+}
